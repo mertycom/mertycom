@@ -51,7 +51,7 @@ You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down"
 ## 📈 GitHub Stats 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=mertycom&amp;theme=onedark"> 
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertycom&amp;layout=compact&amp;theme=dark">
 
