@@ -19,6 +19,8 @@ Also, communication is the most important key to making progress in the software
 
 <blockquote>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </blockquote>
 
 <blockquote>
@@ -42,7 +44,7 @@ Also, communication is the most important key to making progress in the software
 
 You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji> <br>
 <blockquote>
-<p dir="auto"><a href="https://www.linkedin.com/in/bmertcomertoglu" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:mertycom@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://app.patika.dev/mertycom" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/bmertcomertoglu" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:mertycom@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://app.patika.dev/mertycom" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"> <a href="https://www.codewars.com/users/mertycom" rel="nofollow"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></p> <a href="https://www.hackerrank.com/mertycom" rel="nofollow"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></p>
 </blockquote>
 
 <br>
