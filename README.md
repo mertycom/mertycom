@@ -41,7 +41,7 @@ Also, communication is the most important key to making progress in the software
 
 You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji> <br>
 <blockquote>
-<p dir="auto"><a href="www.linkedin.com/in/bmertcomertoglu" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:mertycom@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://app.patika.dev/mertycom" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/bmertcomertoglu" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:mertycom@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://app.patika.dev/mertycom" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"></p>
 </blockquote>
 
 <br>
