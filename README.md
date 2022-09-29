@@ -33,8 +33,8 @@ Also, communication is the most important key to making progress in the software
 
 <blockquote>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+  <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
 </blockquote>
 
 
@@ -58,6 +58,8 @@ You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down"
 
 
 
+<br>
+<img src=https://github-readme-stats.vercel.app/api?username=mertycom&show_icons=true&theme=onedark>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertycom&amp;layout=compact&amp;theme=dark">
 
