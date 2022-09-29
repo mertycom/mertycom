@@ -59,7 +59,7 @@ You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down"
 
 
 <br>
-<img src=https://github-readme-stats.vercel.app/api?username=mertycom&show_icons=true&theme=onedark>
+<img src=https://github-readme-stats.vercel.app/api?username=mertycom&show_icons=true&theme=dark>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertycom&amp;layout=compact&amp;theme=dark">
 
